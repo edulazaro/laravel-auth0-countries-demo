@@ -1,0 +1,10 @@
+{
+    "id": "API_ID_HERE",
+    "name": "Countries App API",
+    "identifier": "https://github.com/edulazaro/laravel-countries-auth0",
+    "signing_alg": "RS256",
+    "allow_offline_access": true,
+    "token_lifetime": 86400,
+    "token_lifetime_for_web": 7200,
+    "skip_consent_for_verifiable_first_party_clients": false
+}
